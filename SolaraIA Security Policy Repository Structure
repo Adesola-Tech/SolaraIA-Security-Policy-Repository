@@ -1,8 +1,6 @@
 solaraia-security-policies/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── policies/
 │   ├── acceptable-use-policy.md
