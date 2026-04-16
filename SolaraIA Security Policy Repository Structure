@@ -1,1 +1,26 @@
-
+solaraia-security-policies/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── policies/
+│   ├── acceptable-use-policy.md
+│   ├── password-construction-standard.md
+│   ├── privacy-management-policy.md
+│   └── policy-review-and-maintenance.md
+│
+├── standards/
+│   └── data-classification-standard.md
+│
+├── procedures/
+│   ├── account-password-procedure.md
+│   └── privacy-incident-reporting-procedure.md
+│
+├── templates/
+│   ├── policy-exception-request-template.md
+│   └── policy-acknowledgment-template.md
+│
+└── docs/
+    ├── policy-framework-overview.md
+    └── policy-roadmap.md
